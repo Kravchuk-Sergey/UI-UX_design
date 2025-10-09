@@ -8,6 +8,8 @@
 ### Результат роботи:
 ![Результат](im/resfigma.png)
 
+Посилання на Figma: (https://www.figma.com/design/TA7U8OiLSpn8gr9vg1Q5BE/Untitled?node-id=0-1&p=f&t=CSuKxirwkF4IYmDK-0)
+
 ## Висновки:
 ><span style="color:#FFC0CB;">*Що було зроблено на практиці?*</span>
 
@@ -16,3 +18,4 @@
 ><span style="color:#FFC0CB;">*Чому я навчився?*</span>
 
 ><span style="color:#90EE90;">Цей етап був трохи складнішим за попередній, але, як і раніше, ця робота є ознайомленням з програмою та її середовищем для подальшої роботи безпосередньо у Figma.</span> 
+
