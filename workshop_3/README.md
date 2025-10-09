@@ -9,8 +9,8 @@
 ![Приклад](images/example.png)
 
 ### Результати роботи:
-![Результат 1](images/r1.jpg)
-![Результат 2](images/r2.png)
+![Результат](images/r2.png)
+Посилання на Figma: (https://www.figma.com/design/2lLDx5u9mIJmd1lQqx4DvM/Untitled?node-id=0-1&p=f&t=oD4Jthq5CWUHpCC5-0)
 
 ## Висновки:
 ><span style="color:#FFC0CB;">*Що було зроблено на практиці?*</span>
@@ -20,4 +20,5 @@
 ><span style="color:#FFC0CB;">*Чому я навчився?*</span>
 >
 ><span style="color:#90EE90;">Цей етап був складнішим за попередній, довелося ретельно ознайомитися із текстовим матеріалом, і завдяки цьому мені вдалося відтворити певний фрагмент геометричного візерунку у Figma.</span> 
+
 
