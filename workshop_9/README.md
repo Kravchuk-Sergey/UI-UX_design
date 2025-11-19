@@ -26,9 +26,11 @@ https://iconmonstr.com/
 Посилання на виконане завдання - https://www.figma.com/design/jTpyq6FMOpmTqklm1Q9FrG/Untitled?node-id=63-2&p=f&t=NqL5Ygdr2KlvqTSf-0.
 
 ## Висновки:
-><span style="color:#FFC0CB;">*Що було зроблено на практиці?*</span>  
+><span style="color:#FFC0CB;">*Що було зроблено на практиці?*</span>
+
 ><span style="color:#90EE90;">На практиці було створено картку товару із використанням Auto layout та його функцій (автоматичне вирівнювання, збереження відступів і т.д.).</span>   
 
 ><span style="color:#FFC0CB;">*Чому я навчився?*</span>  
 
 ><span style="color:#90EE90;">Я навчився працювати з Auto layout, тепер можу використовувати його як допомогу під час організування, розташування і розподілення елементів дизайну, роблячи мої проекти адаптивними.</span> 
+
