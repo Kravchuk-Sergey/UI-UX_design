@@ -43,5 +43,4 @@ https://www.youtube.com/watch?v=Lis9V4rYPzY&authuser=0
 
 ><span style="color:#FFC0CB;">*Чому я навчився?*</span>  
 >
-
 ><span style="color:#90EE90;">Я навчився працювати із вкладкою Prototype і тепер маю усі необхідні знання щоб створювати клікабельні прототипи.</span> 
